@@ -1,1 +1,1 @@
-ЕГОР САЛАМ
+Simple library for Complex nums on C++
